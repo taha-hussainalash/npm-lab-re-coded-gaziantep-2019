@@ -11,8 +11,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": ""
-  },
+  "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/taha-hussainalash/npm-lab-re-coded-gaziantep-2019.git"
